@@ -9,7 +9,7 @@ Tampilan hasil perubahan arah tataletak dan besar kecil sebuah button menggunaka
 
 ## Praktikum 2
 
-
+![Screenshoot hello_world](images/hasil2.png)
 
 ## Praktikum 3
 
